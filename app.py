@@ -5,7 +5,7 @@ import keyboard
 import time
 from datetime import datetime
 
-# definir contatos, necessário colocar o número neste formato: +5585912345678
+# definir contatos, necessário colocar o número neste formato: +55DDD912345678
 
 contatos = ['']
 
