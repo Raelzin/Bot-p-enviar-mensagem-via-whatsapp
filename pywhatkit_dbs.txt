@@ -1,0 +1,41 @@
+--------------------
+Date: 8:1:2021
+Time: 23:3
+Phone number: +5585985409126
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 8:1:2021
+Time: 23:6
+Phone number: +5585994037889
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 8:1:2021
+Time: 23:8
+Phone number: +5585985409126
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 8:1:2021
+Time: 23:11
+Phone number: +5585994037889
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 8:1:2021
+Time: 23:13
+Phone number: +5585985409126
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 8:1:2021
+Time: 23:15
+Phone number: +5585994037889
+Message: ALO ALO O BOT TA ONKKK
+--------------------
+Date: 11:1:2021
+Time: 17:31
+Phone number: +5585985045354
+Message: Testando bot de whatsapp
+--------------------
+Date: 11:1:2021
+Time: 17:33
+Phone number: +5585985045354
+Message: Testando bot de whatsapp
+--------------------
