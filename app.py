@@ -1,15 +1,15 @@
-# 1 importar bibliotecas necessárias
+# importar bibliotecas necessárias
 
 import pywhatkit
 import keyboard
 import time
 from datetime import datetime
 
-# 2 definir contatos, necessário colocar o número neste formato: +5585912345678
+# definir contatos, necessário colocar o número neste formato: +5585912345678
 
 contatos = ['']
 
-# 3 intervalo de envio p/ cada contato
+# intervalo de envio p/ cada contato
 
 while len(contatos) >= 1:
     # enviar mensagens
