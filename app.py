@@ -14,7 +14,7 @@ contatos = ['']
 while len(contatos) >= 1:
     # enviar mensagens
     
-    pywhatkit.sendwhatmsg(contatos[0], 'Testando bot de whatsapp', datetime.now().hour,datetime.now().minute + 2)
+    pywhatkit.sendwhatmsg(contatos[0], 'mensagem', datetime.now().hour,datetime.now().minute + 2)
     del contatos[0]
     time.sleep(15)
     keyboard.press_and_release('ctrl + w')
